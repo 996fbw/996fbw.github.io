@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://996fbw.github.io/sitemap.xml
